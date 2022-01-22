@@ -229,11 +229,11 @@
         "ShowFullName": true
     },
     "SupportSettings": {
-        "TermsOfServiceLink": "https://mattermost.com/terms-of-use/",
-        "PrivacyPolicyLink": "https://mattermost.com/privacy-policy/",
-        "AboutLink": "https://about.mattermost.com/default-about/",
-        "HelpLink": "https://about.mattermost.com/default-help/",
-        "ReportAProblemLink": "https://about.mattermost.com/default-report-a-problem/",
+        "TermsOfServiceLink": "https://annette.apps.cloud4.ambergate.ru/cms/posts",
+        "PrivacyPolicyLink": "https://annette.apps.cloud4.ambergate.ru/cms/posts",
+        "AboutLink": "https://annette.apps.cloud4.ambergate.ru/cms/posts",
+        "HelpLink": "https://annette.apps.cloud4.ambergate.ru/cms/posts",
+        "ReportAProblemLink": "https://annette.apps.cloud4.ambergate.ru/cms/posts",
         "SupportEmail": "",
         "CustomTermsOfServiceEnabled": false,
         "CustomTermsOfServiceReAcceptancePeriod": 365,
@@ -362,9 +362,9 @@
         "LoginButtonTextColor": "#ffffff"
     },
     "NativeAppSettings": {
-        "AppDownloadLink": "https://mattermost.com/download/#mattermostApps",
-        "AndroidAppDownloadLink": "https://about.mattermost.com/mattermost-android-app/",
-        "IosAppDownloadLink": "https://about.mattermost.com/mattermost-ios-app/"
+        "AppDownloadLink": "https://annette.apps.cloud4.ambergate.ru/cms/posts",
+        "AndroidAppDownloadLink": "https://annette.apps.cloud4.ambergate.ru/cms/posts",
+        "IosAppDownloadLink": "https://annette.apps.cloud4.ambergate.ru/cms/posts"
     },
     "ClusterSettings": {
         "Enable": false,
@@ -467,7 +467,7 @@
         "EnableRemoteMarketplace": true,
         "AutomaticPrepackagedPlugins": true,
         "RequirePluginSignature": false,
-        "MarketplaceURL": "https://api.integrations.mattermost.com",
+        "MarketplaceURL": "https://annette.apps.cloud4.ambergate.ru/cms/posts",
         "SignaturePublicKeyFiles": []
     },
     "DisplaySettings": {

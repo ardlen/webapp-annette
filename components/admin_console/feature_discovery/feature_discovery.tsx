@@ -143,7 +143,7 @@ export default class FeatureDiscovery extends React.PureComponent<Props, State> 
                 {!this.props.isCloud && <p className='trial-legal-terms'>
                     <FormattedMarkdownMessage
                         id='admin.license.trial-request.accept-terms'
-                        defaultMessage='By clicking **Start trial**, I agree to the [Mattermost Software Evaluation Agreement](!https://mattermost.com/software-evaluation-agreement/), [Privacy Policy](!https://mattermost.com/privacy-policy/), and receiving product emails.'
+                        defaultMessage='By clicking **Start trial**, I agree to the [Annette IM Software Evaluation Agreement](!https://annette.apps.cloud4.ambergate.ru/cms/posts), [Privacy Policy](!https://annette.apps.cloud4.ambergate.ru/cms/posts), and receiving product emails.'
                     />
                 </p>}
             </React.Fragment>
@@ -166,7 +166,7 @@ export default class FeatureDiscovery extends React.PureComponent<Props, State> 
                 <p className='trial-error'>
                     <FormattedMarkdownMessage
                         id='admin.license.trial-request.error'
-                        defaultMessage='Trial license could not be retrieved. Visit [https://mattermost.com/trial/](https://mattermost.com/trial/) to request a license.'
+                        defaultMessage='Trial license could not be retrieved. Visit [https://annette.apps.cloud4.ambergate.ru/cms/posts](https://annette.apps.cloud4.ambergate.ru/cms/posts) to request a license.'
                     />
                 </p>
             );

@@ -2,20 +2,20 @@
 // See LICENSE.txt for license information.
 
 export const FEEDBACK_EMAIL = 'test@example.com';
-export const ABOUT_LINK = 'https://about.mattermost.com/default-about/';
-export const ASK_COMMUNITY_LINK = 'https://mattermost.com/pl/default-ask-mattermost-community/';
-export const HELP_LINK = 'https://about.mattermost.com/default-help/';
-export const PRIVACY_POLICY_LINK = 'https://mattermost.com/privacy-policy/';
-export const REPORT_A_PROBLEM_LINK = 'https://about.mattermost.com/default-report-a-problem/';
-export const TERMS_OF_SERVICE_LINK = 'https://mattermost.com/terms-of-use/';
+export const ABOUT_LINK = 'https://annette.apps.cloud4.ambergate.ru/cms/posts';
+export const ASK_COMMUNITY_LINK = 'https://annette.apps.cloud4.ambergate.ru/cms/posts';
+export const HELP_LINK = 'https://annette.apps.cloud4.ambergate.ru/cms/posts';
+export const PRIVACY_POLICY_LINK = 'https://annette.apps.cloud4.ambergate.ru/cms/posts';
+export const REPORT_A_PROBLEM_LINK = 'https://annette.apps.cloud4.ambergate.ru/cms/posts';
+export const TERMS_OF_SERVICE_LINK = 'https://annette.apps.cloud4.ambergate.ru/cms/posts';
 
 export const CLOUD = 'Cloud';
 export const E20 = 'E20';
 export const TEAM = 'Team';
 
 export const FixedPublicLinks = {
-    TermsOfService: 'https://about.mattermost.com/default-terms/',
-    PrivacyPolicy: 'https://about.mattermost.com/default-privacy-policy/',
+    TermsOfService: 'https://annette.apps.cloud4.ambergate.ru/cms/posts',
+    PrivacyPolicy: 'https://annette.apps.cloud4.ambergate.ru/cms/posts',
 };
 
 export const SupportSettings = {
